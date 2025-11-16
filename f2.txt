@@ -2,4 +2,4 @@ Hello
 Good Evening
 Checking merge conflict
 Merge conflict by Kavitha
-editing
+merge 
